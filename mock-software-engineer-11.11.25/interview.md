@@ -1,7 +1,7 @@
 # Mock Interview for Software Engineer
 
 Your overall rating is 4/5
-A copy of this feedback has been sent to marianonavarro2021@hotmail.com
+
 Code Quality
 3/5
 Your code demonstrates a clear structure and good variable naming conventions. You properly used ArrayList for storing results and implemented the logic in a readable manner. However, the initial O(n²) implementation could be improved for better efficiency. Areas for improvement include: 1) Adding comments to explain complex logic 2) Breaking down the solution into smaller helper methods for better maintainability 3) Adding input validation 4) Implementing the more efficient O(n) solution using prefix/suffix matching.
